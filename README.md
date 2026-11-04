@@ -1,9 +1,9 @@
 ## Q w e r t y
 
 ```
-andres@misbytes:~$ git add .
+primitive@misbytes:~$ git add .
 ```
 
 ```
-andres@misbytes:~$ git commit -m "Ready for Disaster"
+primitive@misbytes:~$ git commit -m "Ready for Disaster"
 ```
