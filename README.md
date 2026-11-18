@@ -1,4 +1,4 @@
-## P r i m i t i v e
+## // no comments
 
 ```
 primitive@misbytes:~$ git add .
