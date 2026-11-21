@@ -1,13 +1,13 @@
-## // no comments
+## // ghlao
 
 ```
-primitive@misbytes:~$ git add .
-```
-
-```
-primitive@misbytes:~$ git commit -m "Ready for Disaster"
+primitive@ghlao:~$ git add .
 ```
 
 ```
-primitive@misbytes:~$ git push
+primitive@ghlao:~$ git commit -m "Ready for Disaster"
+```
+
+```
+primitive@ghlao:~$ git push
 ```
